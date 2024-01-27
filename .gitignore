@@ -1,3 +1,4 @@
+.gitignore
 venv
 review.zip
 db.sqlite3
